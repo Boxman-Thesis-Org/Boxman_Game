@@ -1,0 +1,4 @@
+repository "BoxmanGame1@Boxman_Thesis@cloud"
+  path "/"
+    br "/main"
+    co "/main"
