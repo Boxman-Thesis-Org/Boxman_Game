@@ -2,15 +2,14 @@
 
 ## Table of Contents
 - [Description](#story-description)
-- [Characters](#characters)
+- [Characters](docs/character-description.md)
 - [Game Mechanics](#game-mechanics)
+- [Level Design](docs/level-design-description.md)
+- [Easter Eggs](docs/easter-eggs.md)
 - [Links](#download-links)
 - [Contributors](#contributors)
 
 ## Story Description
-Pending...
-
-## Characters
 Pending...
 
 ## Game Mechanics
