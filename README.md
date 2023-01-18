@@ -12,6 +12,9 @@
 ## Story Description
 Pending...
 
+## Characters
+Pending...
+
 ## Game Mechanics
 Pending...
 
