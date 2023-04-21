@@ -10,10 +10,9 @@
 - [Contributors](#contributors)
 
 ## Story Description
-Pending...
+In Boxman, you play as one of the last remaining protectors of the galaxy tasked to defeat various evil foes controlled by a sentient Diamond that threatens all life in the universe. There are many mysteries to uncover in the universe of Boxman. From rips seemingly forming within the fabric of space, to uncovering to true origin of ancient powerful beings!
 
-## Characters
-Pending...
+The gameplay involves the player traversing through a 2D side scroller then when completing the level in that perspective the camera will switch to a top-down perspective where the player continues to face new challenges!
 
 ## Game Mechanics
 Pending...
