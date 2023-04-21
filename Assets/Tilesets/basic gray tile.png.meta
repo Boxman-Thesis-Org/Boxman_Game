@@ -171,6 +171,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1288,6 +1289,56 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      basic gray tile_34: -1797969212284312699
+      basic gray tile_26: 1000460056393212996
+      basic gray tile_0: -4758291785283404056
+      basic gray tile_43: 8590290504440275255
+      basic gray tile_23: -1719178205268823486
+      basic gray tile_2: -5841845648488492311
+      basic gray tile_21: -3668974439917542062
+      basic gray tile_3: -6184604720476932884
+      basic gray tile_20: -5717170782656727357
+      basic gray tile_46: -5054730862064951567
+      basic gray tile_48: -6357214624004316013
+      basic gray tile_16: -166607318205695655
+      basic gray tile_18: -7385811944288832777
+      basic gray tile_42: -2699566778400447230
+      basic gray tile_28: 6467297406036981740
+      basic gray tile_12: 5713980178875470120
+      basic gray tile_45: -7794154445997758796
+      basic gray tile_25: -400122625970949614
+      basic gray tile_22: -1782155778412017756
+      basic gray tile_36: 975775497697515114
+      basic gray tile_7: -7979838106467904266
+      basic gray tile_14: -2296656485541664932
+      basic gray tile_31: 7604885548291479741
+      basic gray tile_40: 625583937322513160
+      basic gray tile_32: -8011415614697851820
+      basic gray tile_19: -9047481456741079427
+      basic gray tile_6: 4951261856509910096
+      basic gray tile_33: 5996681279602799609
+      basic gray tile_27: -6822963348026242193
+      basic gray tile_24: -8840815652677187418
+      basic gray tile_11: -4999440069570693777
+      basic gray tile_39: 4031392716826259890
+      basic gray tile_44: 4367028907585049711
+      basic gray tile_47: 3946671310577598628
+      basic gray tile_29: -4258882452880406681
+      basic gray tile_41: 8035197039438134203
+      basic gray tile_37: 5272755980094033915
+      basic gray tile_1: -8437386649959574556
+      basic gray tile_4: -5140327230183231696
+      basic gray tile_13: 7313094968984219335
+      basic gray tile_35: 1914079363460559081
+      basic gray tile_5: -5654065221942187748
+      basic gray tile_17: -5664213236442345089
+      basic gray tile_10: -2595577348072688973
+      basic gray tile_15: 9161752968941647176
+      basic gray tile_8: 3584247375634384600
+      basic gray tile_30: -1107571991635887486
+      basic gray tile_38: -3087840149937474615
+      basic gray tile_9: -2192581364417452175
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

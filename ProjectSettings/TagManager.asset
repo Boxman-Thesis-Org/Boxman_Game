@@ -3,15 +3,24 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Seeker
+  - Spitter_Projectiles
+  - Sword
+  - Barricade
+  - Death
+  - Egg
+  - ToScene2
+  - BoxObject
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - WallsAndFloors
   - Water
   - UI
-  - 
+  - Camera
   - 
   - 
   - 
@@ -38,6 +47,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: UI
+    uniqueID: 1441753031
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

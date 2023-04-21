@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3946293472998474425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3946293472998474427}
+  - component: {fileID: 3946293472998474424}
+  m_Layer: 0
+  m_Name: prologue slideshow
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3946293472998474427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3946293472998474425}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 473.59216, y: 157.37868, z: -175.28839}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3946293472998474424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3946293472998474425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 925c0c53abc53d14ea8464e0f98a66ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  imageArray:
+  - {fileID: 2800000, guid: b5603fa6f3532ee419108d3ea898389c, type: 3}
+  - {fileID: 2800000, guid: 9516eb85788b88f4d9b2d78053581c1f, type: 3}
+  - {fileID: 2800000, guid: 460558aec858f5648a4f0456ee6e2fc3, type: 3}
+  - {fileID: 2800000, guid: 45f8f06046be67348b425e58a1005495, type: 3}
+  - {fileID: 2800000, guid: 5f4456ff242726f4da7a66bb6db30dc3, type: 3}
+  - {fileID: 2800000, guid: 98ccf04fc656e2d4f870b8acc7e03016, type: 3}
+  - {fileID: 2800000, guid: 038cf319d1d666e448d27f7ecb525e49, type: 3}
+  - {fileID: 2800000, guid: 90ee02856ac0beb4ca17b88b0aef1147, type: 3}
+  - {fileID: 2800000, guid: f388e9d64aff6df4e9617569aa45947f, type: 3}
+  - {fileID: 2800000, guid: 6f97486735d06994faac4690a58fc63d, type: 3}
+  - {fileID: 2800000, guid: 633b53ab087e2ea409f4a3c96a30cfd5, type: 3}
+  - {fileID: 2800000, guid: 873097f694923614bb7a087e7e6eb086, type: 3}
+  - {fileID: 2800000, guid: cf2e06b32a45af94abd30899f8d9362a, type: 3}
+  - {fileID: 2800000, guid: bb6dd670ed6f05647859810a5d9561a3, type: 3}
+  - {fileID: 2800000, guid: 224ec8fdb7759e0498eba38787597543, type: 3}
+  - {fileID: 2800000, guid: 1768f0b8e4957444b9b1c97e368550da, type: 3}
+  - {fileID: 2800000, guid: addd417c985b7fc4d8d72d76ca28e49b, type: 3}
+  - {fileID: 2800000, guid: 3235b50989727d2498b237a9c877cccd, type: 3}
+  - {fileID: 2800000, guid: 1f74ab284425cc34495045f95eb0f0bb, type: 3}
+  - {fileID: 2800000, guid: 3c74f1cf7ffdf0a4d835f8c890498896, type: 3}
+  timer1: 5
+  timer1Remaining: 5
+  timer1IsRunning: 1
+  timer1Text: 

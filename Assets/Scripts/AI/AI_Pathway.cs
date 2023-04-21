@@ -4,23 +4,28 @@ using UnityEngine;
 
 public class AI_Pathway : MonoBehaviour
 {
-    //Stick Figure Character
+    [Header("Main Character Selection")]
+    [Tooltip("Prefab of Boxman")]
     public GameObject player;
 
-    //Enemy Figure Variables
+    //Enemy Variables
     private SpriteRenderer _enemySprite;
     private Animator _enemyAnimator;
     private float speed;
     
     //Enemy Positions
+    [Header("AI Trail Positions")]
+    [Tooltip("Point A - Right of Enemy, Point B - Left of Enemy")]
     public GameObject pointA;
     public GameObject pointB;
 
+    //Enemy's Current Position
     private Vector2 _currPoint;
 
     //Meant for Enemy to follow main player
     private float distance;
 
+    //Variable to determine if Enemy should stop following the player and retreat back to trail
     private bool stopFollowTemp = false;
 
     // Start is called before the first frame update
@@ -59,11 +64,12 @@ public class AI_Pathway : MonoBehaviour
 
     void MoveInPaths()
     {
-        Vector3 movePathSlightNeg = new Vector3(-3,0,0);
-        Vector3 movePathSlightPos = new Vector3(3,0,0);
+        Vector3 movePathSlightNeg = new Vector3(-1,0,0);
+        Vector3 movePathSlightPos = new Vector3(1,0,0);
 
         if (!stopFollowTemp)
         {
+            //-5.03 >= 6.66
             if (this.transform.position.x >= pointA.transform.position.x)
             {
                 _currPoint = pointB.transform.position + movePathSlightNeg;
@@ -76,6 +82,7 @@ public class AI_Pathway : MonoBehaviour
                 //Debug.Log("Move to A");
             }
 
+            //Debug.Log("Vector: " + _currPoint);
             transform.position = Vector2.MoveTowards(this.transform.position, _currPoint, speed * Time.deltaTime);
         }
     }
