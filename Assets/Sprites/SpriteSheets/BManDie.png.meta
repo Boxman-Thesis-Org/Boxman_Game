@@ -1,0 +1,1685 @@
+fileFormatVersion: 2
+guid: 09aeccba105b5cc4488172f4f2dfc985
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4820650769943674376
+    second: BManDie_0
+  - first:
+      213: -8745459940064838751
+    second: BManDie_1
+  - first:
+      213: -2193261996936042782
+    second: BManDie_2
+  - first:
+      213: 263186799543685675
+    second: BManDie_3
+  - first:
+      213: 4911341993962434472
+    second: BManDie_4
+  - first:
+      213: -7688162644586173969
+    second: BManDie_5
+  - first:
+      213: -3394649470146874534
+    second: BManDie_6
+  - first:
+      213: 5193568766612749494
+    second: BManDie_7
+  - first:
+      213: -1070009569409066510
+    second: BManDie_8
+  - first:
+      213: 1576311192552680440
+    second: BManDie_9
+  - first:
+      213: 1390993822221515871
+    second: BManDie_10
+  - first:
+      213: 4087090728611298637
+    second: BManDie_11
+  - first:
+      213: 7176871501349849244
+    second: BManDie_12
+  - first:
+      213: 5881399968508878352
+    second: BManDie_13
+  - first:
+      213: -6529332067986083310
+    second: BManDie_14
+  - first:
+      213: 5132020794183876367
+    second: BManDie_15
+  - first:
+      213: 593852868102787114
+    second: BManDie_16
+  - first:
+      213: 9122327854613508412
+    second: BManDie_17
+  - first:
+      213: 728211615963623965
+    second: BManDie_18
+  - first:
+      213: -5233371584741476471
+    second: BManDie_19
+  - first:
+      213: 8202443224396663493
+    second: BManDie_20
+  - first:
+      213: 5928141132743431213
+    second: BManDie_21
+  - first:
+      213: -2340751931570649906
+    second: BManDie_22
+  - first:
+      213: 3850814921289447810
+    second: BManDie_23
+  - first:
+      213: -5305423182298061703
+    second: BManDie_24
+  - first:
+      213: -5565521134269291918
+    second: BManDie_25
+  - first:
+      213: 3468411444321400588
+    second: BManDie_26
+  - first:
+      213: 4564805272330073812
+    second: BManDie_27
+  - first:
+      213: -8997843896882090086
+    second: BManDie_28
+  - first:
+      213: -3415097969949812231
+    second: BManDie_29
+  - first:
+      213: 6083689912437794310
+    second: BManDie_30
+  - first:
+      213: 8599959871959727570
+    second: BManDie_31
+  - first:
+      213: 4313504740181791458
+    second: BManDie_32
+  - first:
+      213: 3382085211927284782
+    second: BManDie_33
+  - first:
+      213: 4759259649793405995
+    second: BManDie_34
+  - first:
+      213: 2352448555575481474
+    second: BManDie_35
+  - first:
+      213: -5493350081804190772
+    second: BManDie_36
+  - first:
+      213: 2568443269861262968
+    second: BManDie_37
+  - first:
+      213: 6972430250172324645
+    second: BManDie_38
+  - first:
+      213: -2014085262203222356
+    second: BManDie_39
+  - first:
+      213: -3755118343197240024
+    second: BManDie_40
+  - first:
+      213: 7676327039640470575
+    second: BManDie_41
+  - first:
+      213: -7902488621359037110
+    second: BManDie_42
+  - first:
+      213: -2730578671593941058
+    second: BManDie_43
+  - first:
+      213: 2098016558331836653
+    second: BManDie_44
+  - first:
+      213: 7994304136851432572
+    second: BManDie_45
+  - first:
+      213: 9068097492558649204
+    second: BManDie_46
+  - first:
+      213: 2260812444485373624
+    second: BManDie_47
+  - first:
+      213: -6128648665965839136
+    second: BManDie_48
+  - first:
+      213: -1636830207392302998
+    second: BManDie_49
+  - first:
+      213: -8223111831779043803
+    second: BManDie_50
+  - first:
+      213: 113148530733841839
+    second: BManDie_51
+  - first:
+      213: -5719876889943996692
+    second: BManDie_52
+  - first:
+      213: -8424810615146402812
+    second: BManDie_53
+  - first:
+      213: 1230775027470774039
+    second: BManDie_54
+  - first:
+      213: -4691844265963544065
+    second: BManDie_55
+  - first:
+      213: 2344709042770016906
+    second: BManDie_56
+  - first:
+      213: -8098145771766378006
+    second: BManDie_57
+  - first:
+      213: 3118168982973348444
+    second: BManDie_58
+  - first:
+      213: -7546413086065924985
+    second: BManDie_59
+  - first:
+      213: 8416449104981621012
+    second: BManDie_60
+  - first:
+      213: -691042165330428187
+    second: BManDie_61
+  - first:
+      213: -6079048945693611034
+    second: BManDie_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BManDie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2898
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eb4b8955466e240800000000000000
+      internalID: 4820650769943674376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2898
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb60b1582e1a680800000000000000
+      internalID: -8745459940064838751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2898
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6634d85d7ff81e0800000000000000
+      internalID: -2193261996936042782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2898
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b229f50fff607a300800000000000000
+      internalID: 263186799543685675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2898
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe698a587982440800000000000000
+      internalID: 4911341993962434472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2898
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe96302fec82e4590800000000000000
+      internalID: -7688162644586173969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2898
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a537de2ea48c3e0d0800000000000000
+      internalID: -3394649470146874534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2538
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc348ac643431840800000000000000
+      internalID: 5193568766612749494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2538
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99a1d37ff8621f0800000000000000
+      internalID: -1070009569409066510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2538
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb239f8dae20e510800000000000000
+      internalID: 1576311192552680440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2538
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cb642f28dcd4310800000000000000
+      internalID: 1390993822221515871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2538
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d3ba30d5348b830800000000000000
+      internalID: 4087090728611298637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2538
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9805941b9e599360800000000000000
+      internalID: 7176871501349849244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2538
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e17f04c1eee9150800000000000000
+      internalID: 5881399968508878352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127f1bf3172365a0800000000000000
+      internalID: -6529332067986083310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2178
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f7f31c8b9983740800000000000000
+      internalID: 5132020794183876367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2178
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a201d14890acd3800800000000000000
+      internalID: 593852868102787114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2178
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31b3e20ad4099e70800000000000000
+      internalID: 9122327854613508412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2178
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1233d24b902b1a00800000000000000
+      internalID: 728211615963623965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2178
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877cd175445f57b0800000000000000
+      internalID: -5233371584741476471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2178
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca097877aee4d170800000000000000
+      internalID: 8202443224396663493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24dd8b93fcf44250800000000000000
+      internalID: 5928141132743431213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1818
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec40c63258af38fd0800000000000000
+      internalID: -2340751931570649906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1818
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2893b37b4c7d07530800000000000000
+      internalID: 3850814921289447810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1818
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974600c99b95f56b0800000000000000
+      internalID: -5305423182298061703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1818
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27223f9040c43c2b0800000000000000
+      internalID: -5565521134269291918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1818
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c073da905d5422030800000000000000
+      internalID: 3468411444321400588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1818
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d67016b532795f30800000000000000
+      internalID: 4564805272330073812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2dedf5ac312380800000000000000
+      internalID: -8997843896882090086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1458
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9dbf38d722b90d0800000000000000
+      internalID: -3415097969949812231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1458
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6066b7a1ebb9d6450800000000000000
+      internalID: 6083689912437794310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1458
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddf5c260f1395770800000000000000
+      internalID: 8599959871959727570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1458
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2df7f05b5acdb30800000000000000
+      internalID: 4313504740181791458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1458
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0709c4949fee20800000000000000
+      internalID: 3382085211927284782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1458
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2439c39f694c0240800000000000000
+      internalID: 4759259649793405995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284157b5f7395a020800000000000000
+      internalID: 2352448555575481474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1098
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb233a433b3c3b0800000000000000
+      internalID: -5493350081804190772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1098
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876c2d5bb81f4a320800000000000000
+      internalID: 2568443269861262968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1098
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b95bafe5c03c060800000000000000
+      internalID: 6972430250172324645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1098
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6070700288c04e0800000000000000
+      internalID: -2014085262203222356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_40
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1098
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825dc2823c323ebc0800000000000000
+      internalID: -3755118343197240024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1098
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f240f7985cac78a60800000000000000
+      internalID: 7676327039640470575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450452d778b45290800000000000000
+      internalID: -7902488621359037110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 738
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb792685a290b1ad0800000000000000
+      internalID: -2730578671593941058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 738
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8b14ca1f6ad1d10800000000000000
+      internalID: 2098016558331836653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 738
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74277fb14971fe60800000000000000
+      internalID: 7994304136851432572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 738
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779198ef9a58dd70800000000000000
+      internalID: 9068097492558649204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 738
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be4551a0f4006f10800000000000000
+      internalID: 2260812444485373624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 738
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec3fef528aa2faa0800000000000000
+      internalID: -6128648665965839136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68b0c2499fc849e0800000000000000
+      internalID: -1636830207392302998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 378
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5269f7e5b53a1ed80800000000000000
+      internalID: -8223111831779043803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 378
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad7f3d3dfbf19100800000000000000
+      internalID: 113148530733841839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 378
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60ce7164aee90b0800000000000000
+      internalID: -5719876889943996692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 378
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c2240d16f051b80800000000000000
+      internalID: -8424810615146402812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 378
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f21d6dd57941110800000000000000
+      internalID: 1230775027470774039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_55
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 378
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff12ac1af7833eeb0800000000000000
+      internalID: -4691844265963544065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af3fb93741a8020800000000000000
+      internalID: 2344709042770016906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 18
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1988e835b9d9f80800000000000000
+      internalID: -8098145771766378006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 18
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a74c35b26f54b20800000000000000
+      internalID: 3118168982973348444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_59
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 18
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7846ea4e741c54790800000000000000
+      internalID: -7546413086065924985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_60
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 18
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41975946edb3dc470800000000000000
+      internalID: 8416449104981621012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_61
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 18
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeb9aadfcce866f0800000000000000
+      internalID: -691042165330428187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManDie_62
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 18
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb28bb2131e2aba0800000000000000
+      internalID: -6079048945693611034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BManDie_12: 7176871501349849244
+      BManDie_38: 6972430250172324645
+      BManDie_56: 2344709042770016906
+      BManDie_14: -6529332067986083310
+      BManDie_0: 4820650769943674376
+      BManDie_41: 7676327039640470575
+      BManDie_48: -6128648665965839136
+      BManDie_5: -7688162644586173969
+      BManDie_26: 3468411444321400588
+      BManDie_7: 5193568766612749494
+      BManDie_44: 2098016558331836653
+      BManDie_8: -1070009569409066510
+      BManDie_49: -1636830207392302998
+      BManDie_51: 113148530733841839
+      BManDie_47: 2260812444485373624
+      BManDie_13: 5881399968508878352
+      BManDie_53: -8424810615146402812
+      BManDie_58: 3118168982973348444
+      BManDie_18: 728211615963623965
+      BManDie_42: -7902488621359037110
+      BManDie_23: 3850814921289447810
+      BManDie_39: -2014085262203222356
+      BManDie_35: 2352448555575481474
+      BManDie_15: 5132020794183876367
+      BManDie_59: -7546413086065924985
+      BManDie_3: 263186799543685675
+      BManDie_1: -8745459940064838751
+      BManDie_50: -8223111831779043803
+      BManDie_52: -5719876889943996692
+      BManDie_4: 4911341993962434472
+      BManDie_61: -691042165330428187
+      BManDie_24: -5305423182298061703
+      BManDie_36: -5493350081804190772
+      BManDie_55: -4691844265963544065
+      BManDie_9: 1576311192552680440
+      BManDie_19: -5233371584741476471
+      BManDie_57: -8098145771766378006
+      BManDie_46: 9068097492558649204
+      BManDie_43: -2730578671593941058
+      BManDie_32: 4313504740181791458
+      BManDie_30: 6083689912437794310
+      BManDie_6: -3394649470146874534
+      BManDie_20: 8202443224396663493
+      BManDie_37: 2568443269861262968
+      BManDie_11: 4087090728611298637
+      BManDie_54: 1230775027470774039
+      BManDie_2: -2193261996936042782
+      BManDie_10: 1390993822221515871
+      BManDie_21: 5928141132743431213
+      BManDie_31: 8599959871959727570
+      BManDie_25: -5565521134269291918
+      BManDie_29: -3415097969949812231
+      BManDie_16: 593852868102787114
+      BManDie_45: 7994304136851432572
+      BManDie_28: -8997843896882090086
+      BManDie_22: -2340751931570649906
+      BManDie_40: -3755118343197240024
+      BManDie_60: 8416449104981621012
+      BManDie_62: -6079048945693611034
+      BManDie_17: 9122327854613508412
+      BManDie_34: 4759259649793405995
+      BManDie_33: 3382085211927284782
+      BManDie_27: 4564805272330073812
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

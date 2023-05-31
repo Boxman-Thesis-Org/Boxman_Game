@@ -28,11 +28,6 @@ public class AI_Health : MonoBehaviour
         boxman_script = player.GetComponent<BoxmanHealth>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 
     public void OnTriggerEnter2D(Collider2D collider)
     {

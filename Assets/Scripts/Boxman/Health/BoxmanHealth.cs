@@ -41,7 +41,7 @@ public class BoxmanHealth : MonoBehaviour
         AI_script = enemy_obj.GetComponent<AI_Health>();
         self = GameObject.FindWithTag("Player");
         sprite = self.GetComponent<SpriteRenderer>();
-
+        //boxman = ScriptableObject.CreateInstance<BoxmanScriptableObject>();
         boxman.health = 50;
         boxman.damage = 10;
 
@@ -51,7 +51,9 @@ public class BoxmanHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (boxman.health < 0)
+        Debug.Log("Boxman Health:" + boxman.health);
+
+        if (boxman.health <= 0)
         {
             boxman.health = 0;
             resetBoxmanPosition();
@@ -97,6 +99,7 @@ public class BoxmanHealth : MonoBehaviour
     public void decreaseHealth()
     {
         boxman.health-=5;
+        Debug.Log("trigger");
         Debug.Log(boxman.health);
     }
 
@@ -110,5 +113,6 @@ public class BoxmanHealth : MonoBehaviour
     {
         this.transform.position = originalPosition;
         boxman.health = 25;
+        Debug.Log(boxman.health);
     }
 }

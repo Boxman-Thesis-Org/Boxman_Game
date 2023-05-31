@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
+using TMPro;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -10,7 +12,6 @@ public class PlayerMovement : MonoBehaviour
     private float speed = 4f;
     private float jumpingPower = 24f;
     private bool isFacingRight = true;
-    private float timer = 0.0f;
 
     //Player Dark Mode
     [Header("Dark Mode Camera")]
@@ -54,10 +55,17 @@ public class PlayerMovement : MonoBehaviour
     [Tooltip("Damage and health values of Boxman")]
     public BoxmanScriptableObject boxman;
 
+    //NO
     [Header("Dark Mode Projectile")]
     [Tooltip("Dark Mode Projectiles")]
     public GameObject projectile;
     public Transform projectileSpawnPoint;
+
+    [Header("Dark Mode Timer Text")]
+    [Tooltip("Dark Mode Timer Text")]
+    public TMP_Text counterText;
+    public CanvasGroup darkCount;
+    private float darkTime;
 
     [Header("Currently Selected Projectile")]
     [Tooltip("Boxman Oriented")]
@@ -70,7 +78,8 @@ public class PlayerMovement : MonoBehaviour
         audio = GetComponent<AudioSource>();
         sprite = GetComponent<SpriteRenderer>();
         //pause = new PauseControl();
-
+        darkTime=5;
+        darkCount.alpha = 0f;
         boxman.darkMode = false;
     }
 
@@ -81,7 +90,6 @@ public class PlayerMovement : MonoBehaviour
 
         if (boxman.darkMode)
         {
-            Debug.Log("DARK MODE LEGGOOOOO");
             turnOnDarkMode();
         }
     }
@@ -136,6 +144,7 @@ public class PlayerMovement : MonoBehaviour
     void CreateDust()
     {
         dust.Play();
+        Debug.Log("Triggered?");
     }
 
     void OnMove(InputValue inputValue)
@@ -184,6 +193,8 @@ public class PlayerMovement : MonoBehaviour
     void OnDark()
     {
         boxman.darkMode = true;
+        darkCount.alpha = 1f;
+        darkTime = 5;
         cam.GetComponent<PostProcess>().enabled = true;
     }
 
@@ -192,18 +203,23 @@ public class PlayerMovement : MonoBehaviour
     //We're not doing projectiles e_e
     void turnOnDarkMode()
     {
-        timer += Time.deltaTime;
-        if (timer < 5.0f)
+        darkTime -= (Time.deltaTime%60);
+
+        if (darkTime > 0f)
         {
             sprite.color = new Color (0.3f, 0.3f, 0.3f, 1);
             speed = 6f;
             boxman.health +=25;
+            double b = System.Math.Round (darkTime);
+            counterText.text = b.ToString();
         }
         else
         {
+            darkTime = 0;
+            counterText.text = darkTime.ToString();
             boxman.darkMode = false;
             cam.GetComponent<PostProcess>().enabled = false;
-            timer = 0;
+            darkCount.alpha = 0f;
         }
         
         //Unused but temporarily here

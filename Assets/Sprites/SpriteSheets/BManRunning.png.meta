@@ -1,0 +1,2910 @@
+fileFormatVersion: 2
+guid: 05efc72536500e045bd6ce836945af8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7941125438879720979
+    second: BManRunning_0
+  - first:
+      213: 3020216418170529874
+    second: BManRunning_1
+  - first:
+      213: 3041110703975326764
+    second: BManRunning_2
+  - first:
+      213: 4454336101617992129
+    second: BManRunning_3
+  - first:
+      213: -3521875415498175565
+    second: BManRunning_4
+  - first:
+      213: 4132007370357125041
+    second: BManRunning_5
+  - first:
+      213: 2773931804655803298
+    second: BManRunning_6
+  - first:
+      213: 2027332971565107416
+    second: BManRunning_7
+  - first:
+      213: -2129110984430870745
+    second: BManRunning_8
+  - first:
+      213: 7096194405065706769
+    second: BManRunning_9
+  - first:
+      213: 1433022592207416420
+    second: BManRunning_10
+  - first:
+      213: -6466309894745959839
+    second: BManRunning_11
+  - first:
+      213: -337429711811723999
+    second: BManRunning_12
+  - first:
+      213: 5764166934410086810
+    second: BManRunning_13
+  - first:
+      213: -2862266895925631565
+    second: BManRunning_14
+  - first:
+      213: 5319424748269920358
+    second: BManRunning_15
+  - first:
+      213: -6329157637524457449
+    second: BManRunning_16
+  - first:
+      213: -5189810141564882197
+    second: BManRunning_17
+  - first:
+      213: 8490448046222031105
+    second: BManRunning_18
+  - first:
+      213: -5121809262520861960
+    second: BManRunning_19
+  - first:
+      213: 3144665566001211457
+    second: BManRunning_20
+  - first:
+      213: -8702528815862715673
+    second: BManRunning_21
+  - first:
+      213: 643608306078685705
+    second: BManRunning_22
+  - first:
+      213: -7807249633377410026
+    second: BManRunning_23
+  - first:
+      213: -5777367370061409437
+    second: BManRunning_24
+  - first:
+      213: 4956038802069800415
+    second: BManRunning_25
+  - first:
+      213: 5388386661037686984
+    second: BManRunning_26
+  - first:
+      213: 2054663874542187124
+    second: BManRunning_27
+  - first:
+      213: 5533131447724955806
+    second: BManRunning_28
+  - first:
+      213: -8292203049569929638
+    second: BManRunning_29
+  - first:
+      213: -7107087833638700514
+    second: BManRunning_30
+  - first:
+      213: -4919574136085363159
+    second: BManRunning_31
+  - first:
+      213: 8739818484515620515
+    second: BManRunning_32
+  - first:
+      213: -3414323128695204390
+    second: BManRunning_33
+  - first:
+      213: -8034304490289643143
+    second: BManRunning_34
+  - first:
+      213: 2933693156867123982
+    second: BManRunning_35
+  - first:
+      213: 5332791851420617506
+    second: BManRunning_36
+  - first:
+      213: -7188181895446687367
+    second: BManRunning_37
+  - first:
+      213: -7006276357206770267
+    second: BManRunning_38
+  - first:
+      213: 7666932775880563936
+    second: BManRunning_39
+  - first:
+      213: 973848109834751519
+    second: BManRunning_40
+  - first:
+      213: -2395193689353278181
+    second: BManRunning_41
+  - first:
+      213: -6102739534191710668
+    second: BManRunning_42
+  - first:
+      213: -8243646157167845834
+    second: BManRunning_43
+  - first:
+      213: 8313791527053203989
+    second: BManRunning_44
+  - first:
+      213: 4126190925140916654
+    second: BManRunning_45
+  - first:
+      213: -1749162484641682438
+    second: BManRunning_46
+  - first:
+      213: -5794673948050071754
+    second: BManRunning_47
+  - first:
+      213: 3070841149064413540
+    second: BManRunning_48
+  - first:
+      213: 225508642324726066
+    second: BManRunning_49
+  - first:
+      213: 7986646618023341261
+    second: BManRunning_50
+  - first:
+      213: 7873550343226353306
+    second: BManRunning_51
+  - first:
+      213: 1452094978271439692
+    second: BManRunning_52
+  - first:
+      213: -4646598175732855096
+    second: BManRunning_53
+  - first:
+      213: -5140219229369757937
+    second: BManRunning_54
+  - first:
+      213: -3946501180270667262
+    second: BManRunning_55
+  - first:
+      213: -5456128460953343034
+    second: BManRunning_56
+  - first:
+      213: -2232842213683719130
+    second: BManRunning_57
+  - first:
+      213: -2745006229749611294
+    second: BManRunning_58
+  - first:
+      213: 5208014746642613472
+    second: BManRunning_59
+  - first:
+      213: -3823128710869857103
+    second: BManRunning_60
+  - first:
+      213: -243873316149575458
+    second: BManRunning_61
+  - first:
+      213: 3999870618682555050
+    second: BManRunning_62
+  - first:
+      213: -2829484257100815133
+    second: BManRunning_63
+  - first:
+      213: -1587133177130843663
+    second: BManRunning_64
+  - first:
+      213: 2760566521492235945
+    second: BManRunning_65
+  - first:
+      213: -670446153470154222
+    second: BManRunning_66
+  - first:
+      213: -3852936771105172751
+    second: BManRunning_67
+  - first:
+      213: -7576787043463775792
+    second: BManRunning_68
+  - first:
+      213: 8833233590780572267
+    second: BManRunning_69
+  - first:
+      213: -100736791150838322
+    second: BManRunning_70
+  - first:
+      213: 7897431044794553702
+    second: BManRunning_71
+  - first:
+      213: 4173794775106690165
+    second: BManRunning_72
+  - first:
+      213: 3180180996964314721
+    second: BManRunning_73
+  - first:
+      213: 7664945524010896362
+    second: BManRunning_74
+  - first:
+      213: 6306089239662276780
+    second: BManRunning_75
+  - first:
+      213: -4488421631340797624
+    second: BManRunning_76
+  - first:
+      213: -7135354606912449650
+    second: BManRunning_77
+  - first:
+      213: 5959482532532454101
+    second: BManRunning_78
+  - first:
+      213: 6832499414948368656
+    second: BManRunning_79
+  - first:
+      213: 2890124763344843605
+    second: BManRunning_80
+  - first:
+      213: -7729303232425628005
+    second: BManRunning_81
+  - first:
+      213: 150055872403592405
+    second: BManRunning_82
+  - first:
+      213: -3919932614392523900
+    second: BManRunning_83
+  - first:
+      213: -9105961943253082913
+    second: BManRunning_84
+  - first:
+      213: 4958556688743781791
+    second: BManRunning_85
+  - first:
+      213: 139922711128416163
+    second: BManRunning_86
+  - first:
+      213: -4290047283705400754
+    second: BManRunning_87
+  - first:
+      213: 224956833756852410
+    second: BManRunning_88
+  - first:
+      213: -5889495244251367924
+    second: BManRunning_89
+  - first:
+      213: -7654005009825403617
+    second: BManRunning_90
+  - first:
+      213: -1302285525183669684
+    second: BManRunning_91
+  - first:
+      213: -2453898864321301033
+    second: BManRunning_92
+  - first:
+      213: -9027661388012573011
+    second: BManRunning_93
+  - first:
+      213: 2850163333068878594
+    second: BManRunning_94
+  - first:
+      213: -8647052507776361020
+    second: BManRunning_95
+  - first:
+      213: -3783225721656042221
+    second: BManRunning_96
+  - first:
+      213: 1011753753265477289
+    second: BManRunning_97
+  - first:
+      213: 1713456679594685418
+    second: BManRunning_98
+  - first:
+      213: -6228194752997347145
+    second: BManRunning_99
+  - first:
+      213: 3401630445608371122
+    second: BManRunning_100
+  - first:
+      213: 4420572388428915578
+    second: BManRunning_101
+  - first:
+      213: -7301283528227271448
+    second: BManRunning_102
+  - first:
+      213: 2335972238511254634
+    second: BManRunning_103
+  - first:
+      213: 396614415386474027
+    second: BManRunning_104
+  - first:
+      213: 156931536759977705
+    second: BManRunning_105
+  - first:
+      213: 8778807340400863428
+    second: BManRunning_106
+  - first:
+      213: -2041367007024013623
+    second: BManRunning_107
+  - first:
+      213: 1113914224248339924
+    second: BManRunning_108
+  - first:
+      213: -6348971939740761983
+    second: BManRunning_109
+  - first:
+      213: -3978681217363075431
+    second: BManRunning_110
+  - first:
+      213: -927795539513223630
+    second: BManRunning_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BManRunning_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5432
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de991cabc747bc190800000000000000
+      internalID: -7941125438879720979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5432
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2586bdd94d6f9e920800000000000000
+      internalID: 3020216418170529874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5432
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246611a212343a20800000000000000
+      internalID: 3041110703975326764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5432
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c18327951bf0dd30800000000000000
+      internalID: 4454336101617992129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5432
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbcc0428f8cf1fc0800000000000000
+      internalID: -3521875415498175565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5432
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfae6f9fc6d75930800000000000000
+      internalID: 4132007370357125041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5432
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abdaa7874cfe7620800000000000000
+      internalID: 2773931804655803298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5072
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8439ba898822c10800000000000000
+      internalID: 2027332971565107416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5072
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9d9517d0e372e0800000000000000
+      internalID: -2129110984430870745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5072
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d4e03d63fba7260800000000000000
+      internalID: 7096194405065706769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5072
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ce1a3847e13e310800000000000000
+      internalID: 1433022592207416420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5072
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d214296d0346a0800000000000000
+      internalID: -6466309894745959839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5072
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dbcc20775315bf0800000000000000
+      internalID: -337429711811723999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5072
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c097794f6eff40800000000000000
+      internalID: 5764166934410086810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4712
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b52eff4c6f2748d0800000000000000
+      internalID: -2862266895925631565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4712
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ec0200a462d940800000000000000
+      internalID: 5319424748269920358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4712
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71877e779a05a28a0800000000000000
+      internalID: -6329157637524457449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4712
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be23e4c4c271af7b0800000000000000
+      internalID: -5189810141564882197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4712
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10939f2838124d570800000000000000
+      internalID: 8490448046222031105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4712
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa732cbc9dabe8b0800000000000000
+      internalID: -5121809262520861960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4712
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148a7eecba814ab20800000000000000
+      internalID: 3144665566001211457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4352
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae6e266286a3780800000000000000
+      internalID: -8702528815862715673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4352
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9f4a285e8ee800800000000000000
+      internalID: 643608306078685705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4352
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614adb1b2d317a390800000000000000
+      internalID: -7807249633377410026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4352
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3639e8a9cfaa2dfa0800000000000000
+      internalID: -5777367370061409437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4352
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd54c62480367c440800000000000000
+      internalID: 4956038802069800415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4352
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ca9b8e1567ca40800000000000000
+      internalID: 5388386661037686984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4352
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4723ae668e1a38c10800000000000000
+      internalID: 2054663874542187124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3992
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9850356cb1a9cc40800000000000000
+      internalID: 5533131447724955806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3992
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5639f8a24d2cec80800000000000000
+      internalID: -8292203049569929638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3992
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1af670354d8e5d90800000000000000
+      internalID: -7107087833638700514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3992
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ce6463692abbb0800000000000000
+      internalID: -4919574136085363159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3992
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a642fa2b921a4970800000000000000
+      internalID: 8739818484515620515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3992
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d8bd4433ed90d0800000000000000
+      internalID: -3414323128695204390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3992
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c5f632aa608090800000000000000
+      internalID: -8034304490289643143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3632
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b2f0ff16296b820800000000000000
+      internalID: 2933693156867123982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3632
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b060d3fe1e10a40800000000000000
+      internalID: 5332791851420617506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3632
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971910596a27e3c90800000000000000
+      internalID: -7188181895446687367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3632
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adf87226c4b4ce90800000000000000
+      internalID: -7006276357206770267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3632
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec192f0dba666a60800000000000000
+      internalID: 7666932775880563936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_40
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3632
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ec2eb32bdc38d00800000000000000
+      internalID: 973848109834751519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3632
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d27d1a70092ced0800000000000000
+      internalID: -2395193689353278181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3272
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e25c33ab6be4ba0800000000000000
+      internalID: -6102739534191710668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3272
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1ffb2f7fa89d80800000000000000
+      internalID: -8243646157167845834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3272
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a98a27855806370800000000000000
+      internalID: 8313791527053203989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3272
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f670f8cc234930800000000000000
+      internalID: 4126190925140916654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3272
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2e78dcf9b9b7e0800000000000000
+      internalID: -1749162484641682438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3272
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd349eebe259fa0800000000000000
+      internalID: -5794673948050071754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3272
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46103ab41c1dd9a20800000000000000
+      internalID: 3070841149064413540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2912
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231cb875aea212300800000000000000
+      internalID: 225508642324726066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2912
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2bd5b8c446de60800000000000000
+      internalID: 7986646618023341261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2912
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9669214258744d60800000000000000
+      internalID: 7873550343226353306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2912
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b6fff60b0e62410800000000000000
+      internalID: 1452094978271439692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2912
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce0771f397f38fb0800000000000000
+      internalID: -4646598175732855096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2912
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f88cd48d54aa8b0800000000000000
+      internalID: -5140219229369757937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_55
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2912
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a9e4406163b39c0800000000000000
+      internalID: -3946501180270667262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2552
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb2af39210f744b0800000000000000
+      internalID: -5456128460953343034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2552
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62492e536d95301e0800000000000000
+      internalID: -2232842213683719130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2552
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e44a81b067c7e9d0800000000000000
+      internalID: -2745006229749611294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_59
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2552
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e401ae91d5964840800000000000000
+      internalID: 5208014746642613472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_60
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2552
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc410a71b481fac0800000000000000
+      internalID: -3823128710869857103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_61
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2552
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed045b4d2869d9cf0800000000000000
+      internalID: -243873316149575458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_62
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2552
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa781ea225628730800000000000000
+      internalID: 3999870618682555050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e422f53f07abb8d0800000000000000
+      internalID: -2829484257100815133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_64
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2192
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f101edc8ce59f9e0800000000000000
+      internalID: -1587133177130843663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2192
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6616c00a08f4620800000000000000
+      internalID: 2760566521492235945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_66
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2192
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a626d86c812b6f0800000000000000
+      internalID: -670446153470154222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_67
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2192
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25c30ab6e978ac0800000000000000
+      internalID: -3852936771105172751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_68
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2192
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93f87d358d9d690800000000000000
+      internalID: -7576787043463775792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_69
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2192
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62368c7623f59a70800000000000000
+      internalID: 8833233590780572267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1832
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd34a31c6c1a9ef0800000000000000
+      internalID: -100736791150838322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1832
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651f1f51bf499d60800000000000000
+      internalID: 7897431044794553702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1832
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c9d97fb3c4ce930800000000000000
+      internalID: 4173794775106690165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_73
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1832
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e618574c5422c20800000000000000
+      internalID: 3180180996964314721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_74
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1832
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc36de75b5f5a60800000000000000
+      internalID: 7664945524010896362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_75
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1832
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0bbfb90cab38750800000000000000
+      internalID: 6306089239662276780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_76
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1832
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a0c59e4ce5b1c0800000000000000
+      internalID: -4488421631340797624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83598c2ac02afc90800000000000000
+      internalID: -7135354606912449650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1472
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20eb4e9c554b250800000000000000
+      internalID: 5959482532532454101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_79
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1472
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011df0c840ae1de50800000000000000
+      internalID: 6832499414948368656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_80
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1472
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553bab3e829cb1820800000000000000
+      internalID: 2890124763344843605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_81
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1472
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eedf569affbb490800000000000000
+      internalID: -7729303232425628005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_82
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1472
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4d31b550b151200800000000000000
+      internalID: 150055872403592405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_83
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1472
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4835aaf4e0a9999c0800000000000000
+      internalID: -3919932614392523900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9c2aabdf11a180800000000000000
+      internalID: -9105961943253082913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1112
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d53f690550d440800000000000000
+      internalID: 4958556688743781791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_86
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1112
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af91d4e6fa11f100800000000000000
+      internalID: 139922711128416163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_87
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1112
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e423c11a9b0b674c0800000000000000
+      internalID: -4290047283705400754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_88
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1112
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bfd56c053f1300800000000000000
+      internalID: 224956833756852410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_89
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1112
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c067b0c774f444ea0800000000000000
+      internalID: -5889495244251367924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_90
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1112
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1deb480ff287c590800000000000000
+      internalID: -7654005009825403617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5b43f63a5dede0800000000000000
+      internalID: -1302285525183669684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_92
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 752
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5f465fbfff1fdd0800000000000000
+      internalID: -2453898864321301033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_93
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 752
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae20075ccd47b280800000000000000
+      internalID: -9027661388012573011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_94
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 752
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203f96b5370dd8720800000000000000
+      internalID: 2850163333068878594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_95
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 752
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd6d7ee8f7ff780800000000000000
+      internalID: -8647052507776361020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_96
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 752
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d129320484f7bc0800000000000000
+      internalID: -3783225721656042221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_97
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 752
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a69e879da87a0e00800000000000000
+      internalID: 1011753753265477289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f24595cb67c710800000000000000
+      internalID: 1713456679594685418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 392
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b034abded10199a0800000000000000
+      internalID: -6228194752997347145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_100
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 392
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b304af1ed4053f20800000000000000
+      internalID: 3401630445608371122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_101
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 392
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73a4348a27095d30800000000000000
+      internalID: 4420572388428915578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_102
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 392
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4a9f9051acaa90800000000000000
+      internalID: -7301283528227271448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_103
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 392
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c23a9df5a0b6020800000000000000
+      internalID: 2335972238511254634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_104
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 392
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f8ed95be018500800000000000000
+      internalID: 396614415386474027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e672a6b6688d2200800000000000000
+      internalID: 156931536759977705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 32
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c86f2493c694d970800000000000000
+      internalID: 8778807340400863428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_107
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 32
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce9122d58b9ba3e0800000000000000
+      internalID: -2041367007024013623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_108
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 32
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddb39ec51b657f00800000000000000
+      internalID: 1113914224248339924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_109
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 32
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18044dab8abe3e7a0800000000000000
+      internalID: -6348971939740761983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_110
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 32
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e1e844382e8c8c0800000000000000
+      internalID: -3978681217363075431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManRunning_111
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 32
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2365f1b5fdecf13f0800000000000000
+      internalID: -927795539513223630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BManRunning_69: 8833233590780572267
+      BManRunning_26: 5388386661037686984
+      BManRunning_21: -8702528815862715673
+      BManRunning_74: 7664945524010896362
+      BManRunning_75: 6306089239662276780
+      BManRunning_85: 4958556688743781791
+      BManRunning_24: -5777367370061409437
+      BManRunning_27: 2054663874542187124
+      BManRunning_82: 150055872403592405
+      BManRunning_83: -3919932614392523900
+      BManRunning_16: -6329157637524457449
+      BManRunning_41: -2395193689353278181
+      BManRunning_47: -5794673948050071754
+      BManRunning_45: 4126190925140916654
+      BManRunning_76: -4488421631340797624
+      BManRunning_96: -3783225721656042221
+      BManRunning_100: 3401630445608371122
+      BManRunning_111: -927795539513223630
+      BManRunning_101: 4420572388428915578
+      BManRunning_54: -5140219229369757937
+      BManRunning_30: -7107087833638700514
+      BManRunning_19: -5121809262520861960
+      BManRunning_89: -5889495244251367924
+      BManRunning_52: 1452094978271439692
+      BManRunning_65: 2760566521492235945
+      BManRunning_64: -1587133177130843663
+      BManRunning_40: 973848109834751519
+      BManRunning_13: 5764166934410086810
+      BManRunning_50: 7986646618023341261
+      BManRunning_55: -3946501180270667262
+      BManRunning_43: -8243646157167845834
+      BManRunning_95: -8647052507776361020
+      BManRunning_72: 4173794775106690165
+      BManRunning_53: -4646598175732855096
+      BManRunning_14: -2862266895925631565
+      BManRunning_44: 8313791527053203989
+      BManRunning_51: 7873550343226353306
+      BManRunning_70: -100736791150838322
+      BManRunning_60: -3823128710869857103
+      BManRunning_32: 8739818484515620515
+      BManRunning_61: -243873316149575458
+      BManRunning_9: 7096194405065706769
+      BManRunning_71: 7897431044794553702
+      BManRunning_91: -1302285525183669684
+      BManRunning_37: -7188181895446687367
+      BManRunning_42: -6102739534191710668
+      BManRunning_63: -2829484257100815133
+      BManRunning_97: 1011753753265477289
+      BManRunning_62: 3999870618682555050
+      BManRunning_12: -337429711811723999
+      BManRunning_48: 3070841149064413540
+      BManRunning_103: 2335972238511254634
+      BManRunning_57: -2232842213683719130
+      BManRunning_7: 2027332971565107416
+      BManRunning_8: -2129110984430870745
+      BManRunning_15: 5319424748269920358
+      BManRunning_107: -2041367007024013623
+      BManRunning_0: -7941125438879720979
+      BManRunning_20: 3144665566001211457
+      BManRunning_33: -3414323128695204390
+      BManRunning_67: -3852936771105172751
+      BManRunning_81: -7729303232425628005
+      BManRunning_2: 3041110703975326764
+      BManRunning_77: -7135354606912449650
+      BManRunning_86: 139922711128416163
+      BManRunning_1: 3020216418170529874
+      BManRunning_73: 3180180996964314721
+      BManRunning_88: 224956833756852410
+      BManRunning_94: 2850163333068878594
+      BManRunning_4: -3521875415498175565
+      BManRunning_31: -4919574136085363159
+      BManRunning_56: -5456128460953343034
+      BManRunning_110: -3978681217363075431
+      BManRunning_11: -6466309894745959839
+      BManRunning_17: -5189810141564882197
+      BManRunning_34: -8034304490289643143
+      BManRunning_58: -2745006229749611294
+      BManRunning_23: -7807249633377410026
+      BManRunning_59: 5208014746642613472
+      BManRunning_102: -7301283528227271448
+      BManRunning_22: 643608306078685705
+      BManRunning_106: 8778807340400863428
+      BManRunning_68: -7576787043463775792
+      BManRunning_29: -8292203049569929638
+      BManRunning_49: 225508642324726066
+      BManRunning_25: 4956038802069800415
+      BManRunning_80: 2890124763344843605
+      BManRunning_3: 4454336101617992129
+      BManRunning_46: -1749162484641682438
+      BManRunning_87: -4290047283705400754
+      BManRunning_5: 4132007370357125041
+      BManRunning_79: 6832499414948368656
+      BManRunning_109: -6348971939740761983
+      BManRunning_6: 2773931804655803298
+      BManRunning_66: -670446153470154222
+      BManRunning_108: 1113914224248339924
+      BManRunning_35: 2933693156867123982
+      BManRunning_10: 1433022592207416420
+      BManRunning_28: 5533131447724955806
+      BManRunning_92: -2453898864321301033
+      BManRunning_84: -9105961943253082913
+      BManRunning_39: 7666932775880563936
+      BManRunning_36: 5332791851420617506
+      BManRunning_90: -7654005009825403617
+      BManRunning_105: 156931536759977705
+      BManRunning_98: 1713456679594685418
+      BManRunning_93: -9027661388012573011
+      BManRunning_18: 8490448046222031105
+      BManRunning_78: 5959482532532454101
+      BManRunning_99: -6228194752997347145
+      BManRunning_38: -7006276357206770267
+      BManRunning_104: 396614415386474027
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

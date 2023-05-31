@@ -6,17 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/OFFICIAL/EPISODE/Episode1-Option1.unity
-    guid: ca3f4989429504df080e149ac45ef9a4
-  - enabled: 1
-    path: Assets/DemoScenes-TBD/Scene2.unity
-    guid: 744d58958e4724c08bbfb34ed14a3a48
-  - enabled: 1
     path: Assets/Scenes/OFFICIAL/PrologueCutScene.unity
     guid: dad96b47b3fff3f4c8d97b42798b0707
   - enabled: 1
+    path: Assets/Scenes/OFFICIAL/StartMenu.unity
+    guid: 83b3fa0abe5ba445a963b768b097ebee
+  - enabled: 1
+    path: Assets/Scenes/OFFICIAL/EPISODE/Episode1-Option1.unity
+    guid: ca3f4989429504df080e149ac45ef9a4
+  - enabled: 1
+    path: Assets/Scenes/OFFICIAL/CutScene1_2.unity
+    guid: 61746b5bb3738427d9367a96a555de0f
+  - enabled: 1
     path: Assets/Scenes/OFFICIAL/EPISODE/Episode2-Option1.unity
     guid: 7dd9ebf4a4f704faa8d440b62e6d233d
+  - enabled: 1
+    path: Assets/Scenes/OFFICIAL/EndCredits.unity
+    guid: 2cabb90114c064aab9cf7969b5abc4cc
+  - enabled: 0
+    path: Assets/DemoScenes-TBD/Scene2.unity
+    guid: 744d58958e4724c08bbfb34ed14a3a48
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 54045891ba3f24fed9b7cc927e4e9c44,
       type: 2}

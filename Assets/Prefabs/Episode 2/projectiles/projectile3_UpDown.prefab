@@ -164,3 +164,4 @@ MonoBehaviour:
   seekerHealth: 0
   barricadeHealth: 0
   player: {fileID: 287957191425166299, guid: c0405c37717a74ab9ad27d7018123232, type: 3}
+  boxman: {fileID: 11400000, guid: be3e342a5f62e42f8b7053f9bf416809, type: 2}

@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 14e315e94436e7c47b711cca0d0c787f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6392754349052747017
+    second: BManStill_0
+  - first:
+      213: 4935873791639148890
+    second: BManStill_1
+  - first:
+      213: 8347921595588436550
+    second: BManStill_2
+  - first:
+      213: -8783733606629022024
+    second: BManStill_3
+  - first:
+      213: 1752688152591022844
+    second: BManStill_4
+  - first:
+      213: 9013301213696011749
+    second: BManStill_5
+  - first:
+      213: -3899480592052855479
+    second: BManStill_6
+  - first:
+      213: 8104725060317643207
+    second: BManStill_7
+  - first:
+      213: 5285857213222711136
+    second: BManStill_8
+  - first:
+      213: -1359245410359316779
+    second: BManStill_9
+  - first:
+      213: -2596446850877183641
+    second: BManStill_10
+  - first:
+      213: 2275633072264697699
+    second: BManStill_11
+  - first:
+      213: -7240882194398680620
+    second: BManStill_12
+  - first:
+      213: 4946589841571865828
+    second: BManStill_13
+  - first:
+      213: -368143204023985430
+    second: BManStill_14
+  - first:
+      213: -5881927449431314755
+    second: BManStill_15
+  - first:
+      213: -3974049056873546523
+    second: BManStill_16
+  - first:
+      213: 7414127550951479210
+    second: BManStill_17
+  - first:
+      213: 9168464131939923854
+    second: BManStill_18
+  - first:
+      213: 8743237134995484663
+    second: BManStill_19
+  - first:
+      213: 2291579176549471063
+    second: BManStill_20
+  - first:
+      213: -5182421104363072997
+    second: BManStill_21
+  - first:
+      213: -8327248966780558544
+    second: BManStill_22
+  - first:
+      213: 2054724938547632288
+    second: BManStill_23
+  - first:
+      213: -5841188684732681500
+    second: BManStill_24
+  - first:
+      213: 6460977073497382155
+    second: BManStill_25
+  - first:
+      213: 5086631850560277633
+    second: BManStill_26
+  - first:
+      213: -3614943717412977621
+    second: BManStill_27
+  - first:
+      213: 865720463002453334
+    second: BManStill_28
+  - first:
+      213: 6154916262380562003
+    second: BManStill_29
+  - first:
+      213: 2557758876439931888
+    second: BManStill_30
+  - first:
+      213: 4048861158130247002
+    second: BManStill_31
+  - first:
+      213: 4744641076050778433
+    second: BManStill_32
+  - first:
+      213: 1606068968537256297
+    second: BManStill_33
+  - first:
+      213: 5222564115531543827
+    second: BManStill_34
+  - first:
+      213: -6542562913026108491
+    second: BManStill_35
+  - first:
+      213: 6787429198258250069
+    second: BManStill_36
+  - first:
+      213: 2345421214745905569
+    second: BManStill_37
+  - first:
+      213: 8588289543200622977
+    second: BManStill_38
+  - first:
+      213: 5439195019706648775
+    second: BManStill_39
+  - first:
+      213: 5171503447012436146
+    second: BManStill_40
+  - first:
+      213: -5879682569649660187
+    second: BManStill_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BManStill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1812
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d5f9fc530a7b850800000000000000
+      internalID: 6392754349052747017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1812
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59dfc6ef0fbf7440800000000000000
+      internalID: 4935873791639148890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1812
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6426cd54676c9d370800000000000000
+      internalID: 8347921595588436550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1812
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6673fa2d8e91680800000000000000
+      internalID: -8783733606629022024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1812
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3931b69cc25810800000000000000
+      internalID: 1752688152591022844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1812
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda2f703bda51d70800000000000000
+      internalID: 9013301213696011749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1812
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd826df0342e9c0800000000000000
+      internalID: -3899480592052855479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1807e6084c97070800000000000000
+      internalID: 8104725060317643207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1452
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f639731232b5940800000000000000
+      internalID: 5285857213222711136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1452
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dee3f8308df22de0800000000000000
+      internalID: -1359245410359316779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1452
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a84f785197fbd0800000000000000
+      internalID: -2596446850877183641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1452
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d77fe83ca49f10800000000000000
+      internalID: 2275633072264697699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1452
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d96a6e0208338b90800000000000000
+      internalID: -7240882194398680620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1452
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e46274b041d5a440800000000000000
+      internalID: 4946589841571865828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea1da9d4b714eaf0800000000000000
+      internalID: -368143204023985430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1092
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee60606223f5ea0800000000000000
+      internalID: -5881927449431314755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1092
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec731d207759d8c0800000000000000
+      internalID: -3974049056873546523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1092
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa756e1d9b544e660800000000000000
+      internalID: 7414127550951479210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1092
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8770382d8dec3f70800000000000000
+      internalID: 9168464131939923854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1092
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe862c9d7365970800000000000000
+      internalID: 8743237134995484663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1092
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d9e8ae135dcf10800000000000000
+      internalID: 2291579176549471063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1293f596775418b0800000000000000
+      internalID: -5182421104363072997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 732
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0336ec23f2baf6c80800000000000000
+      internalID: -8327248966780558544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 732
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89449f179d38c10800000000000000
+      internalID: 2054724938547632288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 732
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e23a74d6ddefeea0800000000000000
+      internalID: -5841188684732681500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 732
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d11c7aa600aa950800000000000000
+      internalID: 6460977073497382155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 732
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c45dbc7b8579640800000000000000
+      internalID: 5086631850560277633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 732
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c19087d325ddc0800000000000000
+      internalID: -3614943717412977621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6554c00ac28a30c00800000000000000
+      internalID: 865720463002453334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 372
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e7710bb7aa6550800000000000000
+      internalID: 6154916262380562003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 372
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbed43852cfe7320800000000000000
+      internalID: 2557758876439931888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 372
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55ea3385c1703830800000000000000
+      internalID: 4048861158130247002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 372
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149dbb4abe958d140800000000000000
+      internalID: 4744641076050778433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 372
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f072b737e94610800000000000000
+      internalID: 1606068968537256297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 372
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b5fa84664a7840800000000000000
+      internalID: 5222564115531543827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b31f60d1b52435a0800000000000000
+      internalID: -6542562913026108491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 12
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5512c4cf4eac13e50800000000000000
+      internalID: 6787429198258250069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 12
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a948911b2c9c8020800000000000000
+      internalID: 2345421214745905569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 12
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ccaa36dbbf2770800000000000000
+      internalID: 8588289543200622977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 12
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c840b56d07eb7b40800000000000000
+      internalID: 5439195019706648775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_40
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 12
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b862e93cfed4c740800000000000000
+      internalID: 5171503447012436146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BManStill_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 12
+        width: 600
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed9f3dadb276ea0800000000000000
+      internalID: -5879682569649660187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BManStill_17: 7414127550951479210
+      BManStill_6: -3899480592052855479
+      BManStill_22: -8327248966780558544
+      BManStill_30: 2557758876439931888
+      BManStill_19: 8743237134995484663
+      BManStill_24: -5841188684732681500
+      BManStill_26: 5086631850560277633
+      BManStill_8: 5285857213222711136
+      BManStill_23: 2054724938547632288
+      BManStill_14: -368143204023985430
+      BManStill_10: -2596446850877183641
+      BManStill_9: -1359245410359316779
+      BManStill_13: 4946589841571865828
+      BManStill_0: 6392754349052747017
+      BManStill_33: 1606068968537256297
+      BManStill_5: 9013301213696011749
+      BManStill_28: 865720463002453334
+      BManStill_20: 2291579176549471063
+      BManStill_16: -3974049056873546523
+      BManStill_34: 5222564115531543827
+      BManStill_41: -5879682569649660187
+      BManStill_36: 6787429198258250069
+      BManStill_31: 4048861158130247002
+      BManStill_35: -6542562913026108491
+      BManStill_25: 6460977073497382155
+      BManStill_39: 5439195019706648775
+      BManStill_21: -5182421104363072997
+      BManStill_2: 8347921595588436550
+      BManStill_4: 1752688152591022844
+      BManStill_27: -3614943717412977621
+      BManStill_11: 2275633072264697699
+      BManStill_18: 9168464131939923854
+      BManStill_38: 8588289543200622977
+      BManStill_15: -5881927449431314755
+      BManStill_32: 4744641076050778433
+      BManStill_1: 4935873791639148890
+      BManStill_12: -7240882194398680620
+      BManStill_29: 6154916262380562003
+      BManStill_7: 8104725060317643207
+      BManStill_40: 5171503447012436146
+      BManStill_3: -8783733606629022024
+      BManStill_37: 2345421214745905569
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

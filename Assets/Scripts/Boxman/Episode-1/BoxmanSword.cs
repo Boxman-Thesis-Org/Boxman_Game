@@ -13,6 +13,8 @@ public class BoxmanSword : MonoBehaviour
     [Tooltip("Damage and health values of Boxman")]
     public BoxmanScriptableObject boxman;
 
+    public Transform explosion;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,12 +31,15 @@ public class BoxmanSword : MonoBehaviour
     {
         if (collider.gameObject.tag == "Seeker")
         {
+            Instantiate(explosion, collider.transform.position, collider.transform.rotation);
             AI_script.decreaseSeekerHealth();
-
+            
             if (AI_script.seekerHealth <= 0)
             {
+            
                 Destroy(collider.gameObject);
                 boxman.health+=5;
+
             }
         }
 

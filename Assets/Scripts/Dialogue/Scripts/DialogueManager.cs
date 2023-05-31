@@ -26,7 +26,6 @@ public class DialogueManager : MonoBehaviour
     {
         sentences = new Queue<string>();
         names = new Queue<string>();
-        nextSent = true;
     }
 
     public void StartDialogue(Dialogue dialogue)
@@ -34,6 +33,7 @@ public class DialogueManager : MonoBehaviour
         animator.SetBool("isOpen", true);
         animator2.SetBool("isClicked", true);
         animator2.SetBool("convoEnd", false);
+        nextSent = true;
 
         Debug.Log("Starting conversation with" + dialogue.names);
 
@@ -97,5 +97,9 @@ public class DialogueManager : MonoBehaviour
         animator.SetBool("isOpen", false);
         animator2.SetBool("convoEnd", true);
         animator2.SetBool("isClicked", false);
+    }
+
+    public void DebugSentence(){
+        Debug.Log("Click!");
     }
 }
