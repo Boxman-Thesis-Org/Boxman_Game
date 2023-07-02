@@ -2,48 +2,35 @@
 
 ## Table of Contents
 - [Character List](#character-list)
-- [Boxman](#Boxman)
 - [Enemies](#enemies)
 
 <hr>
 
 ## Character List
-- Boxman
-- Enemies
-    - Seeker
-    - Spitter
-    - Barricade
-- Prophet (Tutorial Person)
-- BRIEF Boss Fight? (OPTIONAL)
-    - Diamond??
+### Boxman
 
+<p align="center">
+    <img src="images/Boxman_Portrait_%202.png" width="140">
+</p>
 
-## Boxman
+...A powerful warrior who travels throughout the galaxy to quell any threat of evil or tyranny. He wields a one of a kind sword called Shape Cleaver. 
 
-### Abilities
-- Classic:
-    - Charge-up attack:
-        - Let go attack, wave-slash or sword-slash
-        - White-bar in concept art
-    - Glowing (hold button) and let go of button, electric sword attack(?)
-- Dark:
-    - Button to press
-    - Slower and cannot jump as high but more powerful attack (larger swing of sword)
-    - User Testing
-        - Scenario:
-            - Under a timer: use for 20-30 seconds (test with 15)
-            - Cool-down: 30 seconds?
-        - Current concept: no wait-time
-        - Half-way through health
-            - Press key to go to dark-mode
-    - Questions:
-        - Do we make it so we should only use it when at half-health??
-        - Might this be too OP?
-- Suggested Enemy Encounters in Dark Mode:
-    - Barricades: slightly difficult to kill?
-    - Turrets: once indestructible, but can destroy them
+**Boxman** is a member of a nearly extinct race. His people fought hard during the emergence of the oversimplifying parasites, but they were unprepared and overwhelmed by the threat that faced them. Through a galactic effort, they were able to quell the threat of the parasites for a time, at the cost of sacrificing most of their people in the process. The remainder of his kind has either gone into hiding, or are currently in cryo sleep until they are needed once more.
+
+### Prophet
+
+<p align="center">
+    <img src="images/Prophet_Portrait_%202.png" width="140">
+<p>
+
+A very wise polygonal, responsible for giving Boxman his missions and general advice on things.
 
 ## Enemies
+
+<p align="center">
+    <img src="images/enemies-concept.png" width="400">
+<p>
+
 ### Seeker
 - **_Purpose:_** The main grunts on the battlefield so to speak. They are relatively easy to defeat but may appear in large numbers. They can hover above the ground and track the player regardless of where they go (except through doors or other entrances/exits, e.g. level transitions). 
 
