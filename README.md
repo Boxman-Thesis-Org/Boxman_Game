@@ -8,6 +8,7 @@
 - [Level Design Thought Process](docs/level-design-description.md)
 - [Easter Eggs](docs/easter-eggs.md)
 - [Applications Used](#applications-used)
+- [Playable Link](https://play.unity.com/mg/other/boxmanwebgl)
 - [Contributors](#contributors)
 
 ## Story Description
