@@ -32,12 +32,16 @@ public class BeginningScreenScript : MonoBehaviour
     public void QuitButton()
     {
         Application.Quit();
+        #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
+        #endif
     }
 
     void OnQuit()
     {
         Application.Quit();
+        #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
+        #endif
     }
 }

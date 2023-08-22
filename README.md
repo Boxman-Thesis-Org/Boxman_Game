@@ -44,7 +44,7 @@ Similar to light mode, Boxman is able to activate dark mode due to possessing th
 
 ### Upgrade system
 * **Purpose**: Unlocked abilities are specific powers that are granted to Boxman throughout the story. 
-* **Functionality**:Once an unlocked ability is earned, it is added to a menu which displays all of Boxman’s current abilities. Most unlocked abilities will always be activated and won’t require the use of energy; for example, double jump and permanent stat improvements. 
+* **Functionality**: Once an unlocked ability is earned, it is added to a menu which displays all of Boxman’s current abilities. Most unlocked abilities will always be activated and won’t require the use of energy; for example, double jump and permanent stat improvements. 
 
 ### Light Mode
 * **Purpose**: Light mode is intended to serve as a significant buff to Boxman’s vitality and strength for a short time. 

@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class TutorialManager : MonoBehaviour
 {
-     public TMP_Text actionText;
+    public TMP_Text actionText;
 
     public TMP_Text tutorialText;
 
@@ -81,18 +81,23 @@ public class TutorialManager : MonoBehaviour
     {
         gifState+=1;
         arrayState+=1;
-        string tutorial = tutorials[arrayState];
-        string action = actions[arrayState];
-        animator2.SetInteger("GifState", gifState);
+
+        if (arrayState < tutorials.Count)
+        {
+            string tutorial = tutorials[arrayState];
+            string action = actions[arrayState];
+            animator2.SetInteger("GifState", gifState);
   
             StopAllCoroutines();
             tutorialText.text = "";
             tutorialText.text += tutorial;
             actionText.text = action;
-            Debug.Log("Tutorials Index: "+ arrayState);
-            Debug.Log("Tutorials Count: "+ tutorials.Count);
-
-       
+            Debug.Log("Tutorials Index: "+ arrayState + "\n" + "Tutorials Count: "+ tutorials.Count);
+        }
+        else
+        {
+            EndTutorial();
+        }   
     }
 
     public void DisplayPreviousSentence()

@@ -33,10 +33,6 @@ public class prologue : MonoBehaviour
         //dont need to make button transparent but would be cool to know how to.
         //Rect buttonRect = new Rect(0, Screen.height - Screen.height / 10, Screen.width, Screen.height / 10);
 
-        //GUI.Label(imageRect, imageArray[currentImage]);
-        //Draw texture seems more elegant
-        GUI.DrawTexture(imageRect, imageArray[currentImage]);
-
         //if(GUI.Button(buttonRect, "Next"))
         //currentImage++;
 
@@ -44,6 +40,12 @@ public class prologue : MonoBehaviour
         {
             // currentImage = 0;
             SceneManager.LoadScene("StartMenu");
+        }
+        else
+        {
+            //GUI.Label(imageRect, imageArray[currentImage]);
+            //Draw texture seems more elegant
+            GUI.DrawTexture(imageRect, imageArray[currentImage]);
         }
     }
 
@@ -64,11 +66,7 @@ public class prologue : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
-            UnityEngine.Debug.Log("Pressed primary button.");
-            currentImage++;
-
-            if (currentImage >= imageArray.Length)
-                currentImage = 0;
+            OnCutscene();
         }
 
 
@@ -119,6 +117,15 @@ public class prologue : MonoBehaviour
 
     }
 
+    void onNextScene()
+    {
+        if (currentImage >= imageArray.Length)
+        {
+            // currentImage = 0;
+            SceneManager.LoadScene("StartMenu");
+        }
+    }
+
     void OnQuit()
     {
         #if UNITY_EDITOR
@@ -136,11 +143,7 @@ public class prologue : MonoBehaviour
         UnityEngine.Debug.Log("Pressed primary button.");
         currentImage++;
 
-        if (currentImage >= imageArray.Length)
-        {
-            // currentImage = 0;
-            SceneManager.LoadScene("StartMenu");
-        }
+        onNextScene();
     }
 
     void OnWait()
