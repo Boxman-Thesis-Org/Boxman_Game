@@ -122,6 +122,7 @@ QualitySettings:
     PSM: 2
     PSP2: 2
     Samsung TV: 2
+    Server: 0
     Standalone: 2
     Tizen: 2
     Web: 2

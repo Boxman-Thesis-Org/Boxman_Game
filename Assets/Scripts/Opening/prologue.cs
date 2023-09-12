@@ -13,10 +13,10 @@ public class prologue : MonoBehaviour
 
     float deltaTime = 0.0f;
 
-    public float timer1 = 5.0f;
-    public float timer1Remaining = 5.0f;
-    public bool timer1IsRunning = true;
-    public string timer1Text;
+    // public float timer1 = 5.0f;
+    // public float timer1Remaining = 5.0f;
+    // public bool timer1IsRunning = true;
+    // public string timer1Text;
 
     // added ergonomic functionality, 
     // escape key to exit, 
@@ -53,8 +53,10 @@ public class prologue : MonoBehaviour
     void Start()
     {
         currentImage = 0;
-        bool timer1IsRunning = true;
-        timer1Remaining = timer1;
+
+        //Used for activating timer -- omitted in current version
+        //bool timer1IsRunning = true;
+        //timer1Remaining = timer1;
     }
 
     // Update is called once per frame
@@ -92,6 +94,8 @@ public class prologue : MonoBehaviour
         // }
 
 
+        //Used for timer-aspect
+        /*
         if (timer1IsRunning)
         {
             if (timer1Remaining > 0)
@@ -114,7 +118,7 @@ public class prologue : MonoBehaviour
                 SceneManager.LoadScene("StartMenu");
             }
         }
-
+        */
     }
 
     void onNextScene()
@@ -144,11 +148,5 @@ public class prologue : MonoBehaviour
         currentImage++;
 
         onNextScene();
-    }
-
-    void OnWait()
-    {
-        UnityEngine.Debug.Log("Pressed secondary button.");
-        timer1IsRunning = !timer1IsRunning;
     }
 }

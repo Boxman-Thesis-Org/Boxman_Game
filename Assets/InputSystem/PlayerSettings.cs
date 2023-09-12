@@ -73,15 +73,6 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
                     ""initialStateCheck"": false
                 },
                 {
-                    ""name"": ""Wait"",
-                    ""type"": ""Button"",
-                    ""id"": ""f4ff2484-e01e-4fe3-b77c-7cac8e0ba1ee"",
-                    ""expectedControlType"": ""Button"",
-                    ""processors"": """",
-                    ""interactions"": """",
-                    ""initialStateCheck"": false
-                },
-                {
                     ""name"": ""Dark"",
                     ""type"": ""Button"",
                     ""id"": ""f4791b3e-913b-499c-a5fb-d36e5263c2bf"",
@@ -367,39 +358,6 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""b59ffeda-9e7e-49a4-8514-46975bb405fd"",
-                    ""path"": ""<Mouse>/rightButton"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Wait"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""df5aa671-e85c-4627-a435-391b2514df95"",
-                    ""path"": ""<Keyboard>/p"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Wait"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""3de4f502-3265-45ea-9a54-0e27062007be"",
-                    ""path"": ""<Gamepad>/select"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Wait"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
                     ""id"": ""f60440b9-3db9-485b-992d-b3fedb9d8473"",
                     ""path"": ""<Keyboard>/tab"",
                     ""interactions"": """",
@@ -523,6 +481,33 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
                     ""type"": ""PassThrough"",
                     ""id"": ""3039d818-0a87-4a28-8425-93b54b51d3b6"",
                     ""expectedControlType"": ""Quaternion"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Previous"",
+                    ""type"": ""Button"",
+                    ""id"": ""8db59733-81cf-4e3c-9fae-8db94bbb298a"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Next"",
+                    ""type"": ""Button"",
+                    ""id"": ""3232a44c-7e50-4ab4-8229-1cd999d014a2"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Wait"",
+                    ""type"": ""Button"",
+                    ""id"": ""7c95f2d1-872e-428e-93d4-ca1ce9153d53"",
+                    ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
@@ -946,6 +931,39 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
                     ""action"": ""TrackedDeviceOrientation"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""6e44c0ba-3d7e-4a86-b571-ee4a3dd19e45"",
+                    ""path"": ""<Keyboard>/leftArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Previous"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""22eefed4-bd93-4524-abb9-084f2a6016f5"",
+                    ""path"": ""<Keyboard>/rightArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Next"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""158debaf-7986-47de-a713-f050eabcf7fc"",
+                    ""path"": ""<Keyboard>/escape"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Wait"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -1020,7 +1038,6 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
         m_Player_Attack = m_Player.FindAction("Attack", throwIfNotFound: true);
         m_Player_Cutscene = m_Player.FindAction("Cutscene", throwIfNotFound: true);
         m_Player_Quit = m_Player.FindAction("Quit", throwIfNotFound: true);
-        m_Player_Wait = m_Player.FindAction("Wait", throwIfNotFound: true);
         m_Player_Dark = m_Player.FindAction("Dark", throwIfNotFound: true);
         m_Player_Play = m_Player.FindAction("Play", throwIfNotFound: true);
         // UI
@@ -1035,6 +1052,9 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
         m_UI_RightClick = m_UI.FindAction("RightClick", throwIfNotFound: true);
         m_UI_TrackedDevicePosition = m_UI.FindAction("TrackedDevicePosition", throwIfNotFound: true);
         m_UI_TrackedDeviceOrientation = m_UI.FindAction("TrackedDeviceOrientation", throwIfNotFound: true);
+        m_UI_Previous = m_UI.FindAction("Previous", throwIfNotFound: true);
+        m_UI_Next = m_UI.FindAction("Next", throwIfNotFound: true);
+        m_UI_Wait = m_UI.FindAction("Wait", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -1099,7 +1119,6 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
     private readonly InputAction m_Player_Attack;
     private readonly InputAction m_Player_Cutscene;
     private readonly InputAction m_Player_Quit;
-    private readonly InputAction m_Player_Wait;
     private readonly InputAction m_Player_Dark;
     private readonly InputAction m_Player_Play;
     public struct PlayerActions
@@ -1111,7 +1130,6 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
         public InputAction @Attack => m_Wrapper.m_Player_Attack;
         public InputAction @Cutscene => m_Wrapper.m_Player_Cutscene;
         public InputAction @Quit => m_Wrapper.m_Player_Quit;
-        public InputAction @Wait => m_Wrapper.m_Player_Wait;
         public InputAction @Dark => m_Wrapper.m_Player_Dark;
         public InputAction @Play => m_Wrapper.m_Player_Play;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
@@ -1138,9 +1156,6 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
                 @Quit.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnQuit;
                 @Quit.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnQuit;
                 @Quit.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnQuit;
-                @Wait.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnWait;
-                @Wait.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnWait;
-                @Wait.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnWait;
                 @Dark.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDark;
                 @Dark.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDark;
                 @Dark.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDark;
@@ -1166,9 +1181,6 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
                 @Quit.started += instance.OnQuit;
                 @Quit.performed += instance.OnQuit;
                 @Quit.canceled += instance.OnQuit;
-                @Wait.started += instance.OnWait;
-                @Wait.performed += instance.OnWait;
-                @Wait.canceled += instance.OnWait;
                 @Dark.started += instance.OnDark;
                 @Dark.performed += instance.OnDark;
                 @Dark.canceled += instance.OnDark;
@@ -1193,6 +1205,9 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
     private readonly InputAction m_UI_RightClick;
     private readonly InputAction m_UI_TrackedDevicePosition;
     private readonly InputAction m_UI_TrackedDeviceOrientation;
+    private readonly InputAction m_UI_Previous;
+    private readonly InputAction m_UI_Next;
+    private readonly InputAction m_UI_Wait;
     public struct UIActions
     {
         private @PlayerSettings m_Wrapper;
@@ -1207,6 +1222,9 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
         public InputAction @RightClick => m_Wrapper.m_UI_RightClick;
         public InputAction @TrackedDevicePosition => m_Wrapper.m_UI_TrackedDevicePosition;
         public InputAction @TrackedDeviceOrientation => m_Wrapper.m_UI_TrackedDeviceOrientation;
+        public InputAction @Previous => m_Wrapper.m_UI_Previous;
+        public InputAction @Next => m_Wrapper.m_UI_Next;
+        public InputAction @Wait => m_Wrapper.m_UI_Wait;
         public InputActionMap Get() { return m_Wrapper.m_UI; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -1246,6 +1264,15 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
                 @TrackedDeviceOrientation.started -= m_Wrapper.m_UIActionsCallbackInterface.OnTrackedDeviceOrientation;
                 @TrackedDeviceOrientation.performed -= m_Wrapper.m_UIActionsCallbackInterface.OnTrackedDeviceOrientation;
                 @TrackedDeviceOrientation.canceled -= m_Wrapper.m_UIActionsCallbackInterface.OnTrackedDeviceOrientation;
+                @Previous.started -= m_Wrapper.m_UIActionsCallbackInterface.OnPrevious;
+                @Previous.performed -= m_Wrapper.m_UIActionsCallbackInterface.OnPrevious;
+                @Previous.canceled -= m_Wrapper.m_UIActionsCallbackInterface.OnPrevious;
+                @Next.started -= m_Wrapper.m_UIActionsCallbackInterface.OnNext;
+                @Next.performed -= m_Wrapper.m_UIActionsCallbackInterface.OnNext;
+                @Next.canceled -= m_Wrapper.m_UIActionsCallbackInterface.OnNext;
+                @Wait.started -= m_Wrapper.m_UIActionsCallbackInterface.OnWait;
+                @Wait.performed -= m_Wrapper.m_UIActionsCallbackInterface.OnWait;
+                @Wait.canceled -= m_Wrapper.m_UIActionsCallbackInterface.OnWait;
             }
             m_Wrapper.m_UIActionsCallbackInterface = instance;
             if (instance != null)
@@ -1280,6 +1307,15 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
                 @TrackedDeviceOrientation.started += instance.OnTrackedDeviceOrientation;
                 @TrackedDeviceOrientation.performed += instance.OnTrackedDeviceOrientation;
                 @TrackedDeviceOrientation.canceled += instance.OnTrackedDeviceOrientation;
+                @Previous.started += instance.OnPrevious;
+                @Previous.performed += instance.OnPrevious;
+                @Previous.canceled += instance.OnPrevious;
+                @Next.started += instance.OnNext;
+                @Next.performed += instance.OnNext;
+                @Next.canceled += instance.OnNext;
+                @Wait.started += instance.OnWait;
+                @Wait.performed += instance.OnWait;
+                @Wait.canceled += instance.OnWait;
             }
         }
     }
@@ -1336,7 +1372,6 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
         void OnAttack(InputAction.CallbackContext context);
         void OnCutscene(InputAction.CallbackContext context);
         void OnQuit(InputAction.CallbackContext context);
-        void OnWait(InputAction.CallbackContext context);
         void OnDark(InputAction.CallbackContext context);
         void OnPlay(InputAction.CallbackContext context);
     }
@@ -1352,5 +1387,8 @@ public partial class @PlayerSettings : IInputActionCollection2, IDisposable
         void OnRightClick(InputAction.CallbackContext context);
         void OnTrackedDevicePosition(InputAction.CallbackContext context);
         void OnTrackedDeviceOrientation(InputAction.CallbackContext context);
+        void OnPrevious(InputAction.CallbackContext context);
+        void OnNext(InputAction.CallbackContext context);
+        void OnWait(InputAction.CallbackContext context);
     }
 }

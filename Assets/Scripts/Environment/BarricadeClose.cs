@@ -6,7 +6,7 @@ public class BarricadeClose : MonoBehaviour
 {
     public GameObject barricade;
 
-    [SerializeField] private Animator anim;
+    Animator anim;
 
     // Start is called before the first frame update
     void Start()

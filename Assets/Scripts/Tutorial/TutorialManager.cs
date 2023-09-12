@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 using UnityEngine.UI;
+using UnityEngine.InputSystem;
+using TMPro;
 
 public class TutorialManager : MonoBehaviour
 {
@@ -25,12 +26,24 @@ public class TutorialManager : MonoBehaviour
     private int gifState;
     private int arrayState;
 
+    public GameObject boxman;
+
+    PlayerSettings gameplayActions;
+
     // Start is called before the first frame update
     void Start()
     {
         tutorials = new List<string>();
         actions = new List<string>();
         animator.SetBool("isOpen", true);
+        gameplayActions = new PlayerSettings();
+        gameplayActions.Player.Move.performed += SwitchActionMapToUI;
+    }
+
+    void SwitchActionMapToUI(InputAction.CallbackContext context)
+    {
+        gameplayActions.Player.Disable();
+        gameplayActions.UI.Enable();
     }
 
     void Update() 
@@ -49,11 +62,12 @@ public class TutorialManager : MonoBehaviour
             EndTutorial();
              return;
          }
-        
     }
 
     public void StartTutorial(Tutorial tut)
     {
+        boxman.SetActive(false);
+
         gifState = -1;
         arrayState = -1;
 
@@ -62,8 +76,8 @@ public class TutorialManager : MonoBehaviour
         animator.SetBool("isOpen", true);
          
         if(tutorials != null){
-        tutorials.Clear();
-        actions.Clear();
+            tutorials.Clear();
+            actions.Clear();
         }
 
         foreach (string tutorial in tut.tutorials)
@@ -74,6 +88,7 @@ public class TutorialManager : MonoBehaviour
         {
             actions.Add (action);
         }
+
         DisplayNextSentence();
     }
 
@@ -100,6 +115,11 @@ public class TutorialManager : MonoBehaviour
         }   
     }
 
+    void OnNext()
+    {
+        DisplayNextSentence();
+    }
+
     public void DisplayPreviousSentence()
     {
         gifState-=1;
@@ -108,17 +128,26 @@ public class TutorialManager : MonoBehaviour
         string action = actions[arrayState];
         animator2.SetInteger("GifState", gifState);
         
-            StopAllCoroutines();
-            tutorialText.text = "";
-            tutorialText.text += tutorial;
-            actionText.text = action;
-            Debug.Log(arrayState);
-
+        StopAllCoroutines();
+        tutorialText.text = "";
+        tutorialText.text += tutorial;
+        actionText.text = action;
+        Debug.Log(arrayState);
     }
 
-        void EndTutorial()
+    void OnPrevious()
+    {
+        if (arrayState>0)
+        {
+            DisplayPreviousSentence();
+        }
+    }
+
+    void EndTutorial()
     {
         //Debug.Log("Ending tutorial.");
+        boxman.SetActive(true);
+
         animator.SetBool("isOpen", false);
         tutorialGroup.blocksRaycasts=false;
     }

@@ -13,10 +13,11 @@ public class cutscene_slideshow : MonoBehaviour
 
     float deltaTime = 0.0f;
 
-    public float timer1 = 5.0f;
-    public float timer1Remaining = 5.0f;
-    public bool timer1IsRunning = true;
-    public string timer1Text;
+    // Timer variables
+    // public float timer1 = 5.0f;
+    // public float timer1Remaining = 5.0f;
+    // public bool timer1IsRunning = true;
+    // public string timer1Text;
 
     // added ergonomic functionality, 
     // escape key to exit, 
@@ -33,10 +34,6 @@ public class cutscene_slideshow : MonoBehaviour
         //dont need to make button transparent but would be cool to know how to.
         //Rect buttonRect = new Rect(0, Screen.height - Screen.height / 10, Screen.width, Screen.height / 10);
 
-        //GUI.Label(imageRect, imageArray[currentImage]);
-        //Draw texture seems more elegant
-        GUI.DrawTexture(imageRect, imageArray[currentImage]);
-
         //if(GUI.Button(buttonRect, "Next"))
         //currentImage++;
 
@@ -45,14 +42,22 @@ public class cutscene_slideshow : MonoBehaviour
             // currentImage = 0;
             SceneManager.LoadScene("Episode2-Option1");
         }
+        else
+        {
+            //GUI.Label(imageRect, imageArray[currentImage]);
+            //Draw texture seems more elegant
+            GUI.DrawTexture(imageRect, imageArray[currentImage]);
+        }
     }
 
     // Start is called before the first frame update
     void Start()
     {
         currentImage = 0;
-        bool timer1IsRunning = true;
-        timer1Remaining = timer1;
+
+        //Used for activating timer -- omitted in current version
+        // bool timer1IsRunning = true;
+        // timer1Remaining = timer1;
     }
 
     // Update is called once per frame
@@ -64,11 +69,7 @@ public class cutscene_slideshow : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
-            UnityEngine.Debug.Log("Pressed primary button.");
-            currentImage++;
-
-            if (currentImage >= imageArray.Length)
-                currentImage = 0;
+            OnCutscene();
         }
 
 
@@ -93,7 +94,7 @@ public class cutscene_slideshow : MonoBehaviour
         //     timer1IsRunning = !timer1IsRunning;
         // }
 
-
+        /*
         if (timer1IsRunning)
         {
             if (timer1Remaining > 0)
@@ -116,7 +117,17 @@ public class cutscene_slideshow : MonoBehaviour
                 SceneManager.LoadScene("Episode2-Option1");
             }
         }
+        */
 
+    }
+
+    void onNextScene()
+    {
+        if (currentImage >= imageArray.Length)
+        {
+            // currentImage = 0;
+            SceneManager.LoadScene("StartMenu");
+        }
     }
 
     void OnQuit()
@@ -141,11 +152,5 @@ public class cutscene_slideshow : MonoBehaviour
             // currentImage = 0;
             SceneManager.LoadScene("Episode2-Option1");
         }
-    }
-
-    void OnWait()
-    {
-        UnityEngine.Debug.Log("Pressed secondary button.");
-        timer1IsRunning = !timer1IsRunning;
     }
 }

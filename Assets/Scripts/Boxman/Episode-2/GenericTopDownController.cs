@@ -89,6 +89,7 @@ public class GenericTopDownController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Cursor.visible = true;
         bool North = false;
         bool South = false;
         bool East = false;

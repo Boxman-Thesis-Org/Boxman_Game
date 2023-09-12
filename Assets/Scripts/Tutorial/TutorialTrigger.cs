@@ -8,7 +8,7 @@ public class TutorialTrigger : MonoBehaviour
 
     public Animator animator;
 
-  public void TriggerTutorial()
+    public void TriggerTutorial()
     {
         FindObjectOfType<TutorialManager>().StartTutorial(tut);
         this.gameObject.SetActive(false);

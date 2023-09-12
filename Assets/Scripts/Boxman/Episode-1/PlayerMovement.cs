@@ -19,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
     public Camera cam;
 
     //Input from current controller/keyboard/device
-    //Values are: -1, 0, -1
+    //Values are: -1, 0, 1
     //Acts similarly to Input.GetAxisRaw("Horizontal");
     [Header("Player's Movement")]
     [Tooltip("How fast the player will move")]
@@ -81,6 +81,7 @@ public class PlayerMovement : MonoBehaviour
         darkTime=5;
         darkCount.alpha = 0f;
         boxman.darkMode = false;
+        Cursor.visible = true;
     }
 
     // Update is called once per frame
@@ -144,7 +145,7 @@ public class PlayerMovement : MonoBehaviour
     void CreateDust()
     {
         dust.Play();
-        Debug.Log("Triggered?");
+        // Debug.Log("Triggered?");
     }
 
     void OnMove(InputValue inputValue)

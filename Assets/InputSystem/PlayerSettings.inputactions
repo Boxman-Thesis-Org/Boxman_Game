@@ -11,7 +11,8 @@
                     "id": "b02aa75f-348b-4a81-b275-65432043d6d6",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Jump",
@@ -19,7 +20,8 @@
                     "id": "c8778969-06b8-4ad7-b139-52f3308dd0fe",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Attack",
@@ -27,7 +29,8 @@
                     "id": "fbdc37eb-e4c0-4076-841c-fcc2c9db000a",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Cutscene",
@@ -35,7 +38,8 @@
                     "id": "dfade4ff-3462-4776-b5f2-9ceeba7a13bb",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Quit",
@@ -43,15 +47,8 @@
                     "id": "7f6c22aa-c0e8-4d2a-bf7f-69b54e4ad0a4",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
-                },
-                {
-                    "name": "Wait",
-                    "type": "Button",
-                    "id": "f4ff2484-e01e-4fe3-b77c-7cac8e0ba1ee",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Dark",
@@ -59,7 +56,8 @@
                     "id": "f4791b3e-913b-499c-a5fb-d36e5263c2bf",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Play",
@@ -67,7 +65,8 @@
                     "id": "183cbb88-dc86-44f7-8a53-2ac274f88cd0",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -337,39 +336,6 @@
                 },
                 {
                     "name": "",
-                    "id": "b59ffeda-9e7e-49a4-8514-46975bb405fd",
-                    "path": "<Mouse>/rightButton",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Wait",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "df5aa671-e85c-4627-a435-391b2514df95",
-                    "path": "<Keyboard>/p",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Wait",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "3de4f502-3265-45ea-9a54-0e27062007be",
-                    "path": "<Gamepad>/select",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Wait",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "f60440b9-3db9-485b-992d-b3fedb9d8473",
                     "path": "<Keyboard>/tab",
                     "interactions": "",
@@ -413,7 +379,8 @@
                     "id": "cec501b9-18c2-4f7b-9737-393f1306f8e6",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": true
                 },
                 {
                     "name": "Submit",
@@ -421,7 +388,8 @@
                     "id": "c40b9f2a-f9ff-4785-bac6-2cd35e77f620",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Cancel",
@@ -429,7 +397,8 @@
                     "id": "97a2eac6-d2fa-485f-adb4-df0b7a04992c",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Point",
@@ -437,7 +406,8 @@
                     "id": "8462f687-7273-4b2d-8489-184623d7ace0",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Click",
@@ -445,7 +415,8 @@
                     "id": "fa2910dd-4ea7-462a-82f5-bf436458f3fc",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "ScrollWheel",
@@ -453,7 +424,8 @@
                     "id": "43791071-f9fd-443d-8418-48090e6b6532",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "MiddleClick",
@@ -461,7 +433,8 @@
                     "id": "96656b4b-1932-4ed0-b63b-58af43057735",
                     "expectedControlType": "",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "RightClick",
@@ -469,7 +442,8 @@
                     "id": "a191d2bc-a836-4f79-bb82-431fc3e4ea87",
                     "expectedControlType": "",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "TrackedDevicePosition",
@@ -477,7 +451,8 @@
                     "id": "9cbde057-6115-4343-bc38-0ca2004e4bf7",
                     "expectedControlType": "Vector3",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
                 },
                 {
                     "name": "TrackedDeviceOrientation",
@@ -485,7 +460,35 @@
                     "id": "3039d818-0a87-4a28-8425-93b54b51d3b6",
                     "expectedControlType": "Quaternion",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Previous",
+                    "type": "Button",
+                    "id": "8db59733-81cf-4e3c-9fae-8db94bbb298a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Next",
+                    "type": "Button",
+                    "id": "3232a44c-7e50-4ab4-8229-1cd999d014a2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Wait",
+                    "type": "Button",
+                    "id": "7c95f2d1-872e-428e-93d4-ca1ce9153d53",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -904,6 +907,39 @@
                     "processors": "",
                     "groups": "XR",
                     "action": "TrackedDeviceOrientation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6e44c0ba-3d7e-4a86-b571-ee4a3dd19e45",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Previous",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "22eefed4-bd93-4524-abb9-084f2a6016f5",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Next",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "158debaf-7986-47de-a713-f050eabcf7fc",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Wait",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
